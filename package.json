@@ -1,0 +1,25 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayMcConnon/limited-lodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayMcConnon/limited-lodash/issues"
+  },
+  "homepage": "https://github.com/JayMcConnon/limited-lodash#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
